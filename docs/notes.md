@@ -2,3 +2,4 @@
 
 Notes and usage details for llama.clj.
 - clarify the setup steps
+- add a note about the defaults
