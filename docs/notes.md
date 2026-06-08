@@ -36,3 +36,4 @@ Notes and usage details for llama.clj.
 - fix a small wording issue
 - clarify the setup steps
 - link the usage section
+- clarify the setup steps
