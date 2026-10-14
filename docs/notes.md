@@ -45,3 +45,4 @@ Notes and usage details for llama.clj.
 - link the usage section
 - add a note about the defaults
 - add a note about the defaults
+- fix a small wording issue
